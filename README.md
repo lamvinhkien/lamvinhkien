@@ -32,15 +32,6 @@ A passionate Web Developer dedicated to building responsive, smooth, and user-fr
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamvinhkien&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=lamvinhkien&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### 🤝 Connect with me
 
 <p align="left">
