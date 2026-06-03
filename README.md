@@ -1,3 +1,9 @@
+## 👋 Hi there, I'm Lam Vinh Kien!
+
+A passionate Web Developer dedicated to building responsive, smooth, and user-friendly web interfaces.
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 💻 Front-end Web Development
@@ -23,3 +29,25 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lamvinhkien&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=lamvinhkien&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.facebook.com/lamvinhkien1709/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/lam.vinh.kien/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
