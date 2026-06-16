@@ -41,7 +41,7 @@ A passionate Web Developer dedicated to building responsive, smooth, and user-fr
   <a href="https://www.facebook.com/lamvinhkien1709/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/lam.vinh.kien/" target="_blank">
+  <a href="https://www.instagram.com/17sept_t/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
